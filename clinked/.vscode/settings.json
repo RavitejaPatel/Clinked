@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2030f005-fd2f-464f-8187-8f693adcb0a9/resourceGroups/Clinkedrg/providers/Microsoft.Web/sites/clinkedservice",
+    "appService.deploySubpath": "."
+}
